@@ -1,4 +1,4 @@
-![Common Room](https://raw.githubusercontent.com/common-room/.github/main/04D.jpg)
+[![Common Room](https://raw.githubusercontent.com/common-room/.github/main/04D.jpg)](https://commonroom.io)
 
 Common Room is focused on enabling deeper relationships between organizations and the people who use their products and services. We're a Seattle-based startup that's currently 100% remote.
 
