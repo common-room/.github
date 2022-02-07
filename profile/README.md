@@ -1,6 +1,8 @@
-[![Common Room](https://raw.githubusercontent.com/common-room/.github/main/04D.jpg)](https://commonroom.io)
+[![Common Room](https://raw.githubusercontent.com/common-room/.github/main/header.png)](https://commonroom.io)
 
-Common Room is focused on enabling deeper relationships between organizations and the people who use their products and services. We're a Seattle-based startup that's currently 100% remote.
+Common Room is focused on enabling deeper relationships between organizations and the people who use their products and services.
+
+We're currently focused on hiring in the West Coast. Our HQ is in Seattle and we have "hubs" located in San Francisco and Vancouver, British Columbia.
 
 [**Twitter**](https://twitter.com/commonroomhq)  •  [**LinkedIn**](https://www.linkedin.com/company/common-room-hq/)
 
