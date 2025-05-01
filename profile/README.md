@@ -1,19 +1,16 @@
-[![Common Room](https://raw.githubusercontent.com/common-room/.github/main/header.png)](https://commonroom.io)
+# Know who to target, when to engage, and how to convert.
+**We make it easy for sales and marketing to leverage AI.**
 
-Common Room is focused on enabling deeper relationships between organizations and the people who use their products and services.
+Use sophisticated signal capture from 50+ sources, person and account identification and enrichment, and AI-powered activation agents to enable sales and marketing teams to achieve revenue goals.
 
-We're currently focused on hiring in the West Coast. Our HQ is in Seattle and we have "hubs" located in San Francisco and Vancouver, British Columbia.
 
-[**Twitter**](https://twitter.com/commonroomhq)  •  [**LinkedIn**](https://www.linkedin.com/company/common-room-hq/)
+### [We're hiring!](https://www.commonroom.io/careers/)
+Our HQ is Seattle, with a team across the US and Canada. If you're excited about ambitious goals, crispy solutions, and the future of go-to-market, we'd love to hear from you.
 
-## We're Hiring!
-
-We affectionately call ourselves “Roomies.” We’d love to call you one, too. You’d be joining a team that revels in asking hard questions, collaborating gladly, and making decisions quickly — a team that values simplicity, passion, trust, each other, and our customers above all.
-
-[**Check out our open roles ⟶**](https://www.commonroom.io/careers/)
+[**LinkedIn**](https://www.linkedin.com/company/common-room-hq/)
+[**Twitter**](https://twitter.com/commonroomhq) 
 
 ## Want To Learn More?
-
-You should join Uncommon, the gathering place for anyone interested in connecting with community-driven people. Uncommon’s pioneer members lead communities at people- and product-focused organizations.
-
-[**Visit Uncommon ⟶**](https://www.commonroom.io/uncommon/)
+- [Playbooks](https://www.commonroom.io/resources/playbooks) - guides to help and inspire ideas
+- [Integrations](https://www.commonroom.io/integrations/) - see all the signal sources available
+- [Join the Commnunity](https://www.commonroom.io/community/) - speak with folks already using Common Room
